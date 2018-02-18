@@ -310,7 +310,7 @@
             </div>
             <div class="col-lg-6 col-sm-6 col-xs-12">
               <div class="contact-block">
-                <form id="contactForm" action="https://formspree.io/Team@htfc.co" method="POST">
+                <!-- <form method="POST" id="contactForm" action="https://formspree.io/Team@htfc.co">
                   <div class="row">
                     <div class="col-md-12">
                       <div class="form-group">
@@ -329,11 +329,36 @@
                         <textarea class="form-control" id="message" placeholder="Your Message" rows="8" data-error="Write your message" name="message" required></textarea>
                         <div class="help-block with-errors"></div>
                       </div>
-                      <input type="hidden" name="_next" value="//hitechforchange.com/thanks.html" />
+
                       <div class="submit-button text-center">
                         <button class="btn btn-common" id="submit" type="submit" input type="submit" value="Send">Send Message</button>
                         <div id="msgSubmit" class="h3 text-center hidden"></div>
-                        <div class="clearfix"></div>
+                        <div class="clearfix"></div> -->
+                        <form method="POST" action="https://formspree.io/Team@htfc.co">
+                                            <div class="row">
+                    <div class="col-md-12">
+                      <div class="form-group">
+                          <input type="text" name="name" placeholder="Your Name" class="form-control">
+                                            </div>
+                                          </div>
+                    <div class="col-md-12">
+                      <div class="form-group">
+                          <input type="email" name="email" placeholder="Your email"  class="form-control">
+                                            </div>
+                                          </div>
+                    <div class="col-md-12">
+                      <div class="form-group">
+                          <textarea name="message" placeholder="Your message"  class="form-control" rows="8" data-error="Write your message"></textarea>
+                        </div>
+                      </div>
+                          <input type="hidden" name="_next" value="//hitechforchange.com/thanks.html" />
+                          <div class="col-md-12">
+                          <div class="submit-button text-center">
+                          <button type="submit" class="btn btn-common">Send Message</button>
+                        </div>
+                        </div>
+                        </form>
+                      </div>
                       </div>
                     </div>
                   </div>
