@@ -1,0 +1,3 @@
+hitechforchange.com [18/Feb/2018:12:00:31 -0500] 66.85.140.80 - - "GET /js/wow.js HTTP/1.0" 302 219 "http://hitechforchange.com/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36"
+hitechforchange.com [18/Feb/2018:12:00:42 -0500] 66.85.140.80 - - "GET /js/form-validator.min.js HTTP/1.0" 302 219 "http://hitechforchange.com/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36"
+hitechforchange.com [18/Feb/2018:12:00:53 -0500] 66.85.140.80 - - "GET /js/scrolling-nav.js HTTP/1.0" 302 219 "http://hitechforchange.com/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36"
